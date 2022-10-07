@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.testRunner.Runners" time="200.538" tests="15" errors="0" skipped="0" failures="4">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.testRunner.Runners" time="190.469" tests="15" errors="0" skipped="0" failures="3">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_341\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\engah\AppData\Local\Temp\surefire6278693254599282136\surefirebooter456121945578988685.jar C:\Users\engah\AppData\Local\Temp\surefire6278693254599282136 2022-10-06T23-56-01_746-jvmRun1 surefire8426012281470881220tmp surefire_03055765504633668190tmp"/>
+    <property name="sun.java.command" value="C:\Users\engah\AppData\Local\Temp\surefire1935458188163214321\surefirebooter161293350449371791.jar C:\Users\engah\AppData\Local\Temp\surefire1935458188163214321 2022-10-07T16-41-53_678-jvmRun1 surefire5946429624263986107tmp surefire_07987650568696229881tmp"/>
     <property name="surefire.test.class.path" value="D:\Testig\Ecommerce\target\test-classes;D:\Testig\Ecommerce\target\classes;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-java\4.5.0\selenium-java-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-api\4.5.0\selenium-api-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.5.0\selenium-chrome-driver-4.5.0.jar;C:\Users\engah\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\engah\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\engah\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\engah\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\engah\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\engah\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\engah\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\engah\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\engah\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.5.0\selenium-chromium-driver-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-json\4.5.0\selenium-json-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v104\4.5.0\selenium-devtools-v104-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v105\4.5.0\selenium-devtools-v105-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v106\4.5.0\selenium-devtools-v106-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.5.0\selenium-devtools-v85-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.5.0\selenium-edge-driver-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.5.0\selenium-firefox-driver-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.5.0\selenium-ie-driver-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.5.0\selenium-remote-driver-4.5.0.jar;C:\Users\engah\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\engah\.m2\repository\io\netty\netty-buffer\4.1.79.Final\netty-buffer-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-codec-http\4.1.79.Final\netty-codec-http-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-codec\4.1.79.Final\netty-codec-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-handler\4.1.79.Final\netty-handler-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-common\4.1.79.Final\netty-common-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.79.Final\netty-transport-classes-epoll-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.79.Final\netty-transport-classes-kqueue-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-native-epoll\4.1.79.Final\netty-transport-native-epoll-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.79.Final\netty-transport-native-kqueue-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.79.Final\netty-transport-native-unix-common-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport\4.1.79.Final\netty-transport-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-resolver\4.1.79.Final\netty-resolver-4.1.79.Final.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-api\1.17.0\opentelemetry-api-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-context\1.17.0\opentelemetry-context-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.17.0\opentelemetry-exporter-logging-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.17.0\opentelemetry-sdk-metrics-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.17.0-alpha\opentelemetry-sdk-logs-1.17.0-alpha.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.17.0\opentelemetry-sdk-common-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.17.0\opentelemetry-sdk-extension-autoconfigure-spi-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.17.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.17.0-alpha.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-exporter-common\1.17.0\opentelemetry-exporter-common-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.17.0\opentelemetry-sdk-trace-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.17.0\opentelemetry-sdk-1.17.0.jar;C:\Users\engah\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.17.0-alpha\opentelemetry-semconv-1.17.0-alpha.jar;C:\Users\engah\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\engah\.m2\repository\net\bytebuddy\byte-buddy\1.12.14\byte-buddy-1.12.14.jar;C:\Users\engah\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\engah\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\engah\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\engah\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\engah\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\engah\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\engah\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\engah\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-http\4.5.0\selenium-http-4.5.0.jar;C:\Users\engah\.m2\repository\dev\failsafe\failsafe\3.2.4\failsafe-3.2.4.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.5.0\selenium-safari-driver-4.5.0.jar;C:\Users\engah\.m2\repository\org\seleniumhq\selenium\selenium-support\4.5.0\selenium-support-4.5.0.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\engah\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\engah\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\engah\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\engah\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\engah\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\engah\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-testng\7.3.4\cucumber-testng-7.3.4.jar;C:\Users\engah\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\engah\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\engah\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\engah\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\engah\.m2\repository\io\cucumber\cucumber-junit\7.8.0\cucumber-junit-7.8.0.jar;C:\Users\engah\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\engah\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\engah"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\engah\AppData\Local\Temp\surefire6278693254599282136\surefirebooter456121945578988685.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\engah\AppData\Local\Temp\surefire1935458188163214321\surefirebooter161293350449371791.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_341\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_341\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -62,78 +62,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="22.184">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&quot;result&quot;]&quot;}&#10;  (Session info: chrome=105.0.5195.127)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.5.0&apos;, revision: &apos;fe167b119a&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_341&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [e90f9ab8c8c51fb5b5eb677ddf028647, findElement {using=xpath, value=//div[@class=&quot;result&quot;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\engah\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:13194}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:13194/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: e90f9ab8c8c51fb5b5eb677ddf028647" type="org.openqa.selenium.NoSuchElementException"><![CDATA[org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="result"]"}
-  (Session info: chrome=105.0.5195.127)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.5.0', revision: 'fe167b119a'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [e90f9ab8c8c51fb5b5eb677ddf028647, findElement {using=xpath, value=//div[@class="result"]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\engah\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:13194}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:13194/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: e90f9ab8c8c51fb5b5eb677ddf028647
-]]></failure>
-    <system-out><![CDATA[
-@smoke
-Scenario: guest user register with valid data successfully      &amp#27;[90m# src/main/resources/Features/F01_regfeature.feature:3&amp#27;[0m
-  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32muser go to register page&amp#27;[0m                                &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.goRegisterPage()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser select gender type&amp#27;[0m                                   &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.select_male()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser enter first name "automation" and last name "tester"&amp#27;[0m &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.Enter_first_second()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser enter date of birth&amp#27;[0m                                  &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.Enter_birth_date()&amp#27;[0m
-  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser enter email "test@exampless.com" field&amp#27;[0m              &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.Enter_Email()&amp#27;[0m
-  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser fills Password fields "P@ssw0rd" "P@ssw0rd"&amp#27;[0m          &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.Enter_pass()&amp#27;[0m
-  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser clicks on register button&amp#27;[0m                           &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.Clicks_register()&amp#27;[0m
-  &amp#27;[31mAnd &amp#27;[0m&amp#27;[31msuccess message is displayed&amp#27;[0m                              &amp#27;[90m# org.example.stepDefs.D01_registerStepDef.Success_msg()&amp#27;[0m
-      &amp#27;[31morg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="result"]"}
-  (Session info: chrome=105.0.5195.127)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.5.0', revision: 'fe167b119a'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [e90f9ab8c8c51fb5b5eb677ddf028647, findElement {using=xpath, value=//div[@class="result"]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\engah\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:13194}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:13194/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: e90f9ab8c8c51fb5b5eb677ddf028647
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
-	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
-	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
-	at org.example.pages.P01_register.Success_register(P01_register.java:44)
-	at org.example.stepDefs.D01_registerStepDef.Success_msg(D01_registerStepDef.java:50)
-	at âœ½.success message is displayed(file:///D:/Testig/Ecommerce/src/main/resources/Features/F01_regfeature.feature:11)
-&amp#27;[0m
-]]></system-out>
-    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 53324
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-Oct 06, 2022 11:56:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected upstream dialect: W3C
-Oct 06, 2022 11:56:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-INFO: Found exact CDP implementation for version 105
-]]></system-err>
-  </testcase>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="10.488"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="17.238"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.929"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="7.956"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="12.311"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.189"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="12.124">
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="18.572"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="10.589"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="9.386"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="12.846"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="8.155"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="11.479"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.956"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="12.227">
     <failure message="expected [https://demo.nopcommerce.com/nokia-lumia-1020] but found [https://demo.nopcommerce.com/]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected [https://demo.nopcommerce.com/nokia-lumia-1020] but found [https://demo.nopcommerce.com/]
 ]]></failure>
     <system-out><![CDATA[
@@ -153,17 +89,17 @@ https://demo.nopcommerce.com/
 	at âœ½.check wether the url is changed to "https://demo.nopcommerce.com/nokia-lumia-1020"(file:///D:/Testig/Ecommerce/src/main/resources/Features/F06_homeSliders.feature:5)
 &amp#27;[0m
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 54581
+    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 59320
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Oct 06, 2022 11:57:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 07, 2022 4:43:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Oct 06, 2022 11:57:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Oct 07, 2022 4:43:22 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found exact CDP implementation for version 105
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="12.174">
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="12.17">
     <failure message="expected [https://demo.nopcommerce.com/iphone-6] but found [https://demo.nopcommerce.com/]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected [https://demo.nopcommerce.com/iphone-6] but found [https://demo.nopcommerce.com/]
 ]]></failure>
     <system-out><![CDATA[
@@ -183,19 +119,19 @@ https://demo.nopcommerce.com/
 	at âœ½.check wether the url is changed to "https://demo.nopcommerce.com/iphone-6"(file:///D:/Testig/Ecommerce/src/main/resources/Features/F06_homeSliders.feature:11)
 &amp#27;[0m
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 52045
+    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 50748
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Oct 06, 2022 11:57:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 07, 2022 4:43:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Oct 06, 2022 11:57:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Oct 07, 2022 4:43:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found exact CDP implementation for version 105
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.555"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.79"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="9.096">
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.368"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="13.691"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="9.254">
     <failure message="Index: 1, Size: 1" type="java.lang.IndexOutOfBoundsException"><![CDATA[java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
 ]]></failure>
     <system-out><![CDATA[
@@ -210,17 +146,17 @@ Scenario: user opens rss link                                                   
 &amp#27;[0m
   &amp#27;[36mThen &amp#27;[0m&amp#27;[36mcheck wether the url is changed to "&amp#27;[0m&amp#27;[36m&amp#27;[1mhttps://demo.nopcommerce.com/new-online-store-is-open&amp#27;[0m&amp#27;[36m"&amp#27;[0m &amp#27;[90m# org.example.stepDefs.D06_homeSlidersStepDef.Check_url(java.lang.String)&amp#27;[0m
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 49375
+    <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 57200
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Oct 06, 2022 11:58:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 07, 2022 4:44:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Oct 06, 2022 11:58:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Oct 07, 2022 4:44:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found exact CDP implementation for version 105
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="15.635"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="9.534"/>
-  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="15.612"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="17.154"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="10.015"/>
+  <testcase name="runScenario" classname="org.example.testRunner.Runners" time="15.577"/>
 </testsuite>
